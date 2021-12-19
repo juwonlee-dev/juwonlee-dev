@@ -1,7 +1,7 @@
 # 이주원(Ju won Lee)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indvel&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indvel&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwonlee-dev&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwonlee-dev&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Skills
 <p align='left'>
